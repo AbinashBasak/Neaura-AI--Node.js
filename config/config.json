@@ -1,0 +1,23 @@
+{
+	"development": {
+		"username": "abinashbasak",
+		"password": "Pass123",
+		"database": "gendqdg",
+		"host": "127.0.0.1",
+		"dialect": "postgresql"
+	},
+	"test": {
+		"username": "abinashbasak",
+		"password": "Pass123",
+		"database": "gendqdg",
+		"host": "127.0.0.1",
+		"dialect": "postgresql"
+	},
+	"production": {
+		"username": "abinashbasak",
+		"password": "Pass123",
+		"database": "gendqdg",
+		"host": "127.0.0.1",
+		"dialect": "postgresql"
+	}
+}
